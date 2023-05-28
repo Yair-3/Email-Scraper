@@ -12,9 +12,9 @@ public class SQLDatabaseConnection {
         System.out.println(endpoint);
         String connectionUrl = // specifies how to connect to the database
                 "jdbc:sqlserver://" + endpoint + ";"
-                        + "database=Kimmel_Yair;"
-                        + "user=admin;"
-                        + "password=mcon364_417;"
+                        + "database=InsertDataBase;"
+                        + "user=username;"
+                        + "password=InsertPassword;"
                         + "encrypt=false;"
                         + "trustServerCertificate=false;"
                         + "loginTimeout=30;";
