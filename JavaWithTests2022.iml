@@ -70,5 +70,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" exported="" name="log4j" level="project" />
+    <orderEntry type="library" name="io.quarkus.junit5.mockito.config" level="project" />
+    <orderEntry type="library" name="assertj.swing.junit" level="project" />
   </component>
 </module>
